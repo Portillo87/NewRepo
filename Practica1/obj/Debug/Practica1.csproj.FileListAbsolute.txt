@@ -1,0 +1,10 @@
+C:\Users\Wilfredo Portillo\OneDrive - Universidad de Oriente\Escritorio\Ciclo IV\Programacion orienta a eventos\Practica1\bin\Debug\Practica1.exe.config
+C:\Users\Wilfredo Portillo\OneDrive - Universidad de Oriente\Escritorio\Ciclo IV\Programacion orienta a eventos\Practica1\bin\Debug\Practica1.exe
+C:\Users\Wilfredo Portillo\OneDrive - Universidad de Oriente\Escritorio\Ciclo IV\Programacion orienta a eventos\Practica1\bin\Debug\Practica1.pdb
+C:\Users\Wilfredo Portillo\OneDrive - Universidad de Oriente\Escritorio\Ciclo IV\Programacion orienta a eventos\Practica1\obj\Debug\Practica1.csproj.AssemblyReference.cache
+C:\Users\Wilfredo Portillo\OneDrive - Universidad de Oriente\Escritorio\Ciclo IV\Programacion orienta a eventos\Practica1\obj\Debug\Practica1.Form1.resources
+C:\Users\Wilfredo Portillo\OneDrive - Universidad de Oriente\Escritorio\Ciclo IV\Programacion orienta a eventos\Practica1\obj\Debug\Practica1.Properties.Resources.resources
+C:\Users\Wilfredo Portillo\OneDrive - Universidad de Oriente\Escritorio\Ciclo IV\Programacion orienta a eventos\Practica1\obj\Debug\Practica1.csproj.GenerateResource.cache
+C:\Users\Wilfredo Portillo\OneDrive - Universidad de Oriente\Escritorio\Ciclo IV\Programacion orienta a eventos\Practica1\obj\Debug\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\Wilfredo Portillo\OneDrive - Universidad de Oriente\Escritorio\Ciclo IV\Programacion orienta a eventos\Practica1\obj\Debug\Practica1.exe
+C:\Users\Wilfredo Portillo\OneDrive - Universidad de Oriente\Escritorio\Ciclo IV\Programacion orienta a eventos\Practica1\obj\Debug\Practica1.pdb
